@@ -1,7 +1,7 @@
 {
   "name": "veo-canal",
   "version": "0.1.0",
-  "homepage": "https://github.com/BrandaoA/VEO-CANAL-.git",
+  "homepage": "https://github.com/BrandaoA/veo-canal.git",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
