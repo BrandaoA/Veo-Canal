@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BrandaoA/Veo-Canal/static/css/main.c58cdd1d.css",
+    "main.js": "/BrandaoA/Veo-Canal/static/js/main.2b71f48e.js",
+    "static/media/eu money.jpeg": "/BrandaoA/Veo-Canal/static/media/eu money.750197f22cd92ff0fb75.jpeg",
+    "index.html": "/BrandaoA/Veo-Canal/index.html",
+    "main.c58cdd1d.css.map": "/BrandaoA/Veo-Canal/static/css/main.c58cdd1d.css.map",
+    "main.2b71f48e.js.map": "/BrandaoA/Veo-Canal/static/js/main.2b71f48e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c58cdd1d.css",
+    "static/js/main.2b71f48e.js"
+  ]
+}
